@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.container{
+	border-style: ridge;
+	background-color:white;
+}
+.testimonial{
+	padding: 10px;border-style: ridge;
+	background-color:white;
+}
+.text{
+	
+}
+.author{
+	text-align:right;
+	font-style:italic;
+}
